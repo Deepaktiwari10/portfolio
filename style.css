@@ -1,0 +1,246 @@
+/*
+ * Globals
+ */
+ html, body, * {
+
+     margin: 0;
+     padding: 0;
+     border: 0;
+
+   font-family: 'Montserrat', sans-serif;
+   }
+
+
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+
+
+
+/*
+ * Base structure
+ */
+#title{
+   background-color: #127681;
+
+padding: 0px;
+
+
+
+
+
+}
+
+.title-ut{
+    padding: 3% 15% ;
+     background-color: #127681;
+     margin: auto;
+}
+
+
+#bottom{
+  background-color: #127681;
+ padding:3% 15% ;
+
+}
+
+.logo
+{
+
+  text-align: center;
+}
+
+.btm{
+  color:white;
+}
+
+.card-title
+{
+  color:white;
+}
+
+.tool-heading
+{
+  text-align: center;
+}
+
+.lang-title
+{
+  color: white;
+}
+
+.desc
+{
+  color:#99A6B9;
+}
+
+.card
+{
+  background-color: #011627;
+  border-radius:15px 50px;
+}
+
+
+
+#about{
+background-image: -webkit-linear-gradient(75deg, #127681 50%, #E4E9FD 50%);
+background-color: white;
+  padding:2% 7% ;
+  height:  100vh;
+  margin-top:50px;
+
+
+
+}
+.below-intro{
+  padding-top: 80px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#tools{
+
+  background-color: #127681;
+ padding:3% 15% ;
+
+
+}
+
+#mail{
+
+  background-color:white ;
+ padding:3% 15% ;
+
+
+
+}
+
+.jumbotron-radius
+{
+     border-radius:25px 60px;
+
+}
+
+.btn{
+  padding:10px;
+  color:white;
+}
+
+.buttons{
+  text-align: center;
+}
+
+.btn:hover{
+  color: #173B67;
+}
+
+.info{
+  margin-top: 10px;
+  text-align: center;
+
+}
+
+.name{
+  color:white;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.bottom{
+  margin-top: 20px;
+}
+
+.jumboton-align
+{
+  text-align: center;
+  padding:3% 15%;
+   border-radius:55px 80px;
+
+}
+
+.jumbotron{
+
+
+   background-color: #127681;
+}
+
+.smiley
+{
+  text-align: right;
+}
+
+.navmargin
+{
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.intro-heading{
+
+  color:white;
+}
+
+
+
+.developer-image{
+  width:90%;
+  float:right;
+
+ border-radius:15px 50px;
+}
+.about-heading
+{
+  color:white;
+}
+
+.about-img{
+
+
+  width:80%;
+  float :left;
+ border-radius:15px 50px;
+}
+
+.container-fluid
+{
+text-align: center;
+
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+  color:white;
+
+
+}
+
+.navbar-item{
+  padding:0 18px;
+}
+
+.skills-section
+{
+  padding:3% 15%;
+}
+
+
+
+
+
+
+.heading-text
+{
+  color: #f3c623;
+}
+.brown-text
+{
+    color: #595238;
+
+}
+
+.introduction{
+  text-align: center;
+}
